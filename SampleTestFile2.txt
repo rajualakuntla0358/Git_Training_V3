@@ -1,1 +1,4 @@
+Git Revert
+
 This is Sample File2
+This is Comparision lecture, change in file2
